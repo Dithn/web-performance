@@ -3,6 +3,13 @@ The WG's meeting schedule is being managed in its [agenda document](https://docs
 Links to the meeting minutes are below:
 
 # 2024
+
+* [September 12th](https://w3c.github.io/web-performance/meetings/2024/2024-09-12/index.html)
+* [August 29th](https://w3c.github.io/web-performance/meetings/2024/2024-08-29/index.html)
+* [August 1st](https://w3c.github.io/web-performance/meetings/2024/2024-08-01/index.html)
+* [July 18th](https://w3c.github.io/web-performance/meetings/2024/2024-07-18/index.html)
+* [July 10th](https://w3c.github.io/web-performance/meetings/2024/2024-07-10/index.html)
+* [June 20th](https://w3c.github.io/web-performance/meetings/2024/2024-06-20/index.html)
 * [June 6th](https://w3c.github.io/web-performance/meetings/2024/2024-06-06/index.html)
 * [May 23rd](https://w3c.github.io/web-performance/meetings/2024/2024-05-23/index.html)
 * [May 9th](https://w3c.github.io/web-performance/meetings/2024/2024-05-09/index.html)
@@ -13,6 +20,7 @@ Links to the meeting minutes are below:
 * [February 1st](https://w3c.github.io/web-performance/meetings/2024/2024-02-01/index.html)
 
 # 2023
+
 * [December 7th](https://w3c.github.io/web-performance/meetings/2023/2023-12-07/index.html)
 * [November 17th](https://w3c.github.io/web-performance/meetings/2023/2023-11-17/index.html)
 * [November 9th](https://w3c.github.io/web-performance/meetings/2023/2023-11-09/index.html)
@@ -31,6 +39,7 @@ Links to the meeting minutes are below:
 * [January 19th](https://w3c.github.io/web-performance/meetings/2023/2023-01-19/index.html)
 
 # 2022
+
 * [December 8th](https://w3c.github.io/web-performance/meetings/2022/2022-12-08/index.html)
 * [November 10th](https://w3c.github.io/web-performance/meetings/2022/2022-11-10/index.html)
 * [October 13th](https://w3c.github.io/web-performance/meetings/2022/2022-10-13/index.html)
@@ -53,6 +62,7 @@ Links to the meeting minutes are below:
 * [January 20th](https://w3c.github.io/web-performance/meetings/2022/2022-01-20/index.html)
 
 # 2021
+
 * [December 2nd](https://w3c.github.io/web-performance/meetings/2021/2021-12-02/index.html)
 * [November 18th](https://w3c.github.io/web-performance/meetings/2021/2021-11-18/index.html)
 * [TPAC](https://w3c.github.io/web-performance/meetings/2021/2021-10-TPAC/index.html)
@@ -76,6 +86,7 @@ Links to the meeting minutes are below:
 * [January 7th](https://w3c.github.io/web-performance/meetings/2021/2021-01-07/index.html)
 
 # 2020
+
 * [December 3rd](https://w3c.github.io/web-performance/meetings/2020/2020-12-03/index.html)
 * [November 19th](https://w3c.github.io/web-performance/meetings/2020/2020-11-19)
 * [TPAC](https://w3c.github.io/web-performance/meetings/2020/2020-10-TPAC/index.html)
@@ -100,6 +111,7 @@ Links to the meeting minutes are below:
 * [January 16th](https://w3c.github.io/web-performance/meetings/2020/2020-01-16)
 
 # 2019
+
 * [December 6th](https://w3c.github.io/web-performance/meetings/2019/2019-12-06)
 * [November 19th](https://w3c.github.io/web-performance/meetings/2019/2019-11-19)
 * [Novmber 5th](https://w3c.github.io/web-performance/meetings/2019/2019-11-05)
@@ -123,6 +135,7 @@ Links to the meeting minutes are below:
 * [January 10th](https://w3c.github.io/web-performance/meetings/2019/2019-01-10/)
 
 # 2018
+
 * [December 13th](https://w3c.github.io/web-performance/meetings/2018/2018-12-13/)
 * [November 27th](https://w3c.github.io/web-performance/meetings/2018/2018-11-27/)
 * [TPAC](https://w3c.github.io/web-performance/meetings/2018/2018-TPAC/index.html)
